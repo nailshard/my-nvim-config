@@ -1,0 +1,7 @@
+require('funcs.global')
+print('fuck')
+R('keys')
+R('settings')
+R('autocmds')
+R('ftdetect')
+R('commands')
